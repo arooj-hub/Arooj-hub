@@ -32,3 +32,6 @@ Fast learner: From teaching syntax to solving SQL queries.
 
 I’m excited to support teams that want to make data-driven decisions and improve how customers experience their product.
 
+### 📄 Resume & Contact
+- 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/arooj-fatima-16a993319/)
+
