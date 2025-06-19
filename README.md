@@ -1,9 +1,10 @@
-## Hi, I'm Arooj Fatima, 
+## Hi, I'm Arooj Fatima
 A data analyst with a background in English linguistics and literature and experience as a university instructor. My journey into data began with a fascination for patterns, clarity, and stories hidden inside numbers.
 While raising a family, I decided to pivot careers and now combine my communication skills with technical expertise to help businesses uncover actionable insights.
 
 ## What I Bring:
 Empathy + data: I approach problems by balancing user understanding with numbers.
+
 Fast learner: From teaching syntax to solving SQL queries.
 
 
