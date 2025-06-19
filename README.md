@@ -31,3 +31,4 @@ Fast learner: From teaching syntax to solving SQL queries.
 5. Avid learner
 
 I’m excited to support teams that want to make data-driven decisions and improve how customers experience their product.
+
